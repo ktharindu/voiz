@@ -1,0 +1,6 @@
+
+/.idea/
+.gitignore
+.idea/magicento/
+.idea/workspace.xml
+wp-content/upgrade/
